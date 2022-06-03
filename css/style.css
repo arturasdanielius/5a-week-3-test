@@ -1,0 +1,22 @@
+main {
+    display: inline-block;
+
+}
+
+div {
+    float: left ;
+    width: 100px;
+
+}
+
+div > img {
+
+}
+
+img {
+    width:100px;
+}
+
+p {
+
+}
